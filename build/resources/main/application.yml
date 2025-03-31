@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: simple-password
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+    operations-sorter: method
+    disable-swagger-default-url: true
